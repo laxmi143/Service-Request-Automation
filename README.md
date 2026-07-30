@@ -16,45 +16,18 @@ Key Features
 
 
 Solution Architecture
-Microsoft Forms
-        ↓
-Power Automate
-        ↓
-SharePoint List
-        ↓
-Approval Process
-        ↓
-Email Notifications
-        ↓
-Teams Notifications
-        ↓
-Status Updates & Reporting
+<img width="928" height="507" alt="image" src="https://github.com/user-attachments/assets/0a0b14d7-0ed4-40e0-ac7e-e59254609128" />
 
-Business Impact
-Reduced manual effort in handling service requests
-Improved approval turnaround time
-Enhanced visibility of request status
-Standardized request management process
-Increased collaboration through Teams integration
-Technologies Used
-Microsoft Forms
-Power Automate
-SharePoint Online
-Microsoft Outlook
-Microsoft Teams
-Power BI (Optional)
-Microsoft 365
+
+Business Impact :
+Reduced manual effort in handling service requests, Improved approval turnaround time, Enhanced visibility of request status
+, Standardized request management process, Increased collaboration through Teams integration
+
+Technologies Used : Microsoft Forms, Power Automate, SharePoint Online, Microsoft Outlook, Microsoft Teams, Power BI (Optional), Microsoft 365
+
 Learning Outcomes
 
-This project demonstrates practical experience with:
-
-Workflow automation
-Process optimization
-Approval management
-Microsoft 365 integration
-Power Platform development
-Business process digitization
-Low-code solution design
+This project demonstrates practical experience with: Workflow automation, Process optimization, Approval management, Microsoft 365 integration, Power Platform development, Business process digitization, Low-code solution design
 
 Author: Laxmi Chaudhary
  Role: Microsoft 365 Support Engineer | Power Platform Enthusiast
